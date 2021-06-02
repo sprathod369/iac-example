@@ -1,3 +1,3 @@
 ## About the repo
 
-This repository is used as a part of IaC static analysis testing
+This repository is used as a part of Infra-as-code static analysis testing
